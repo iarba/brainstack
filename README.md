@@ -3,7 +3,7 @@ A simple program used to implement a stack in Brainfuck.
 
 ## How to use:
 
-Use your favorite Brainfuck compiler/interpreter on `source/tictactoe` to play the game. [Recommendation](https://github.com/iarba/bfcompiler)
+Use your favorite Brainfuck compiler/interpreter on `brainstack.bf` to use the program. [Recommendation](https://github.com/iarba/bfcompiler)
 
 ## Program
 
